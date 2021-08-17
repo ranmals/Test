@@ -1,2 +1,2 @@
-# Test
-Test
+# GanitRatnaAward
+Ganit Ratna Award Website
